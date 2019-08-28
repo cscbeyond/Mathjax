@@ -47,6 +47,8 @@ https://segmentfault.com/a/1190000008317350
 ```
 此时查看网页会发现，数学表达式已经被成功转译。
 
+部署到自己的服务上 可能会出现跨域问题，在服务端做跨域处理
+
 具体配置及含义，请参考：
 官网：[https://mathjax-chinese-doc.readthedocs.io/en/latest/configuration.html](https://mathjax-chinese-doc.readthedocs.io/en/latest/configuration.html)
 
